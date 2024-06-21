@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋<br>my name is  Abhishek <br>Btech CSE student<br>looking for Internship Opportunity</h2>
+<h2 align="left">Hi 👋<br>my name is  Abhishek Kumar Prasad <br>Btech CSE student<br>looking for Internship Opportunity</h2>
 
 ###
 
